@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/NewsBuddy.git
+git clone https://github.com/Gourav072003/NewsBuddy.git
 Navigate to the project folder:
 
 bash
